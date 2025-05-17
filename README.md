@@ -12,7 +12,7 @@
 
 ## 安装与启用
 
-1. 将本插件脚本保存 (`blender_light_friends.py`)。
+1. 将本插件脚本保存 (`blender_light_friends.py`),或直接下载链接https://github.com/little-house-studio/BlenderLightFriends/releases/download/v1.0/BlenderLightFriends_v1.0.py。
 2. 在Blender中打开**编辑 > 偏好设置 > 插件**，点击**安装**，选择此文件并启用插件。
 3. 在3D视图的**右侧侧边栏（N键）**，会出现一个新标签 **[ 光 ]**，插件操作区就在这里。
 

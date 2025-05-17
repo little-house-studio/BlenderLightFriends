@@ -12,7 +12,7 @@
 
 ## Installation & Activation
 
-1. Save the script as `blender_light_friends.py`.
+1. Save this plugin script (`blender_light_friends.py`), or directly use the download link: https://github.com/little-house-studio/BlenderLightFriends/releases/download/v1.0/BlenderLightFriends_v1.0.py. 
 2. In Blender, go to **Edit > Preferences > Add-ons**, click **Install**, select this file and enable the add-on.
 3. In the 3D View's **right sidebar (press N)**, you'll find a new tab **[ 光 ]** where the add-on panel is located.
 
